@@ -48,7 +48,7 @@ export default function Home({ latestEpisodes, allEpisodes }: HomeProps) {
                 <Image width={192} height={192} src={episode.thumbnail} alt={episode.title} objectFit="cover" />
 
                 <div className={styles.episodeDetails}>
-                  <Link href={`/episodes?${episode.id}`}>
+                  <Link href={`/episodes/${episode.id}`} passHref>
                     <a>{episode.title}</a>
                   </Link>
                   <p>{episode.members}</p>
