@@ -7,7 +7,17 @@
 [![Author](https://img.shields.io/badge/author-Klayverx-8257E5?style=flat-square)](https://github.com/Klayverx)
 [![Languages](https://img.shields.io/github/languages/count/josepholiveira/podcastr?color=%238257E5&style=flat-square)](#)
 
+<h4 align="center">
+  Podcastr is a platform built for podcast broadcasting.
+</h4>
+
+![Podcastr preview](.github/app-preview.png)
+
 ## 🧪 Technologies
+<div align="center">
+  <br />
+  <img src=".github/tech-logos.png" alt="Technologies used">
+</div>
 
 This project was developed using the following technologies:
 
